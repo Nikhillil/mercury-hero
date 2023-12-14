@@ -66,7 +66,7 @@ const Background = () => {
         }}
       >
         <img
-          className=" translate-y-[60px]  h-full rounded-[25px] border-solid border-2 border-slate-200"
+          className=" translate-y-[60px] rounded-[25px] border-solid border-2 border-slate-200"
           src="https://framerusercontent.com/images/hY7dz3uD5cYp9mzioTBHqQvUw.png?scale-down-to=1024"
           alt=""
         />
